@@ -1,0 +1,48 @@
+{
+  "TestObject": {
+    "SomeText": "Blah 1",
+    "SomeObject": {
+      "SomeNumber": 42,
+      "SomeBool": true,
+      "SomeNull": null
+    },
+
+    "SomeEmptyObject": { },
+    "SomeEmptyArray": [ ],
+    "EmbeddedObject": "{\"field\":\"Value with \\\"escaped quotes\\\"\"}"
+  }
+}
+
+
+
+
+{
+  "TestObject": {
+    "SomeText": "Blah 3",
+    "SomeObject": {
+      "SomeNumber": 42,
+      "SomeBool": true,
+      "SomeNull": null
+    },
+
+    "SomeEmptyObject": { },
+    "SomeEmptyArray": [ ],
+    "EmbeddedObject": "{\"field\":\"Value with \\\"escaped quotes\\\"\"}"
+  }
+}
+
+
+{
+  "TestObject": {
+    "SomeText": "Blah 2",
+    "SomeObject": {
+      "SomeNumber": 42,
+      "SomeBool": true,
+      "SomeNull": null
+    },
+
+    "SomeEmptyObject": { },
+    "SomeEmptyArray": [ ],
+    "EmbeddedObject": "{\"field\":\"Value with \\\"escaped quotes\\\"\"}"
+  }
+}
